@@ -1,0 +1,2 @@
+Overwritten attributes  get_hcore  of <class 'pyscf.qmmm.itrf.QMMM'>
+slurmstepd: error: *** JOB 2973115 ON comput35 CANCELLED AT 2022-05-21T15:08:42 ***
